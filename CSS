@@ -1,0 +1,66 @@
+body{
+background-color: rgb(238, 224, 233);
+
+}
+h1{
+    text-transform: uppercase;
+    text-align: center;
+}
+p{
+align:center;
+}
+#panda{
+    margin-left:auto;
+    margin-right: auto;
+}
+hr{
+width: 1500px;
+height: 30px;
+background-color: rgb(88, 10, 10);
+}
+
+
+
+
+h1
+{
+color:black;	
+}
+table,,tr{
+    border:3px solid green;
+    }
+td{
+border:3px solid red;
+
+}
+th{
+border:3px solid pink;
+
+}
+table{
+border:3px solid rgb(36, 63, 14);
+
+}
+img{
+    height:250px;
+    width:280px;
+    border:1px solid black;
+align:center;
+}
+#soap{
+text-align: center;
+color:rgb(79, 10, 145);
+}
+span{
+color:rgb(62, 134, 62);
+}
+p{
+text-align: left;
+
+}
+
+
+
+
+
+
